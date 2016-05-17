@@ -1,0 +1,25 @@
+article {
+  width: 980px;
+  margin: auto;
+  display: bblock;
+}
+.category {
+  width: 240px;
+  margin-left: 10px;
+  display: block;
+  float: left;
+}
+
+.category ul {
+  list-style-type: none;
+}
+
+.button-block {
+  width: 980px;
+  margin: auto;
+  clear: left;
+  display: block;
+}
+.readmore-bt {
+
+}
